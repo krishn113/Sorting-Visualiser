@@ -1,0 +1,39 @@
+body {
+    background-color: #343a40;
+  }
+  h1 {
+    color: #ffcda3;
+    text-align: center;
+  }
+  .bars {
+    display: inline-flex;
+    margin: 2px;
+    width: 5px;
+    background-color: #74c7b8;
+  }
+  .btn {
+    margin: 10px;
+  }
+  
+  .new {
+    border-color: #ef4f4f;
+    color: #ef4f4f;
+  }
+  .sort {
+    border-color: #ef4f4f;
+    color: #ef4f4f;
+  }
+  .sort-btn {
+    margin-left: auto;
+  }
+  #bar-cont {
+    text-align: center;
+    transform: rotate(180deg);
+  }
+  span {
+    color: #ef4f4f;
+    align-items: center;
+  }
+  input[type="range"] {
+    margin: 10px;
+  }
